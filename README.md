@@ -7,14 +7,14 @@ through an intuitive command-line interface with graphical tools.
 A single change in a DNA sequence can alter an entire protein and ultimately change a person's life—as seen in disorders such as sickle-cell anaemia. Yet, understanding this relationship has often been abstract. ‘C the ATG’ bridges this gap by allowing users to computationally explore the journey from DNA to mRNA to protein while visualizing each step of the process.
 
 **(ii) List Of Features:**
-1. DNA Sequence Validation – Ensures that only biologically valid DNA sequences (A, T, G, and C) are accepted for analysis.
-2. Sequence Length Analysis – Reports the total number of nucleotides in the input DNA sequence.
-3. Base Composition Analysis – Calculates nucleotide frequencies, purine and pyrimidine composition, GC content, AT content, GC skew, and AT skew, accompanied by graphical         visualizations.
-4. Sequence Analysis – Generates the reverse strand and complementary DNA strand, and supports motif searching in both.
-5. Molecular Weight Estimation – Calculates the molecular weight of the coding strand, complementary strand, and double-stranded DNA.
-6. DNA Transcription – Simulates transcription to generate the corresponding mRNA sequence and supports mRNA motif searching.
-7. Protein Translation – Detects valid Open Reading Frames (ORFs) and translates coding sequences using the Standard Genetic Code.
-8. Protein Analysis – Reports protein length, amino acid composition, Pareto chart visualization, and protein motif searching.
+1. DNA Sequence Validation : Ensures that only biologically valid DNA sequences (A, T, G, and C) are accepted for analysis.
+2. Sequence Length Analysis : Reports the total number of nucleotides in the input DNA sequence.
+3. Base Composition Analysis : Calculates nucleotide frequencies, purine and pyrimidine composition, GC content, AT content, GC skew, and AT skew, accompanied by graphical         visualizations.
+4. Sequence Analysis : Generates the reverse strand and complementary DNA strand, and supports motif searching in both.
+5. Molecular Weight Estimation : Calculates the molecular weight of the coding strand, complementary strand, and double-stranded DNA.
+6. DNA Transcription : Simulates transcription to generate the corresponding mRNA sequence and supports mRNA motif searching.
+7. Protein Translation : Detects valid Open Reading Frames (ORFs) and translates coding sequences using the Standard Genetic Code.
+8. Protein Analysis : Reports protein length, amino acid composition, Pareto chart visualization, and protein motif searching.
 
 **(iii) Technologies Used:**
 1. Python 3
