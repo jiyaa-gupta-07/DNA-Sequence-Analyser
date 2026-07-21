@@ -33,7 +33,7 @@ A single change in a DNA sequence can alter an entire protein and ultimately cha
 10. Point Mutations and their Biological Consequences (Case Study)
 
 **(v) Project Report: A single base pair change [Computational Analysis of the Human β-Globin (HBB) Gene Using C the ATG]:**
-   A detailed project report describing the biological background, computational methodology, implementation, validation, case study, results, limitations, and conclusions is available here:
+A detailed project report describing the biological background, computational methodology, case study, results, limitations, assumptions and conclusion is available here:
 https://docs.google.com/document/d/1WAdE5dVNlYe1GWgZsPUMN5PCBAQBEE7CQbpb4pYkv18/edit?usp=sharing
 
 **(vi) Applications & Future scope:**
